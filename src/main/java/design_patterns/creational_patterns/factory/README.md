@@ -1,3 +1,0 @@
-- Implement FactoryDesign pattern for OnlineOrderProcessing for different order categories(food, clothing etc..).
-- Demonstrate how you can add new order type without violating open closed principle?
-- OnlineOrderProcessingFactory and main method should not be edited when you add new order type
